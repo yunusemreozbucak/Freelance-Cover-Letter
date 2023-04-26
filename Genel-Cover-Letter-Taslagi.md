@@ -3,7 +3,7 @@
 -----
 Merhaba <b>{İşveren/ Firma Adı}</b>, <i>Eğer işvereninizin ismi belli değil ise, <b>“Merhabalar”</b> ya da daha yaratıcı bir şey ile cümlenize başlayabilirsiniz.<i>
   
-Öncelikle iş ilanınıza beni davet ettiğiniz için teşekkür ederim. <i>Eğer herhangi bir iş ilanına davet edildiyseniz bu cümleyi kullanın, aksi  takdirde aşağıda yer alan cümle ile devam edin.</i>
+Öncelikle iş ilanınıza beni davet ettiğiniz için teşekkür ederim. <i>(Eğer herhangi bir iş ilanına davet edildiyseniz bu cümleyi kullanın, aksi  takdirde aşağıda yer alan cümle ile devam edin.)</i>
 
 <b>{Aranan pozisyon}</b> pozisyonu için freelancer arayışınızın olduğunu görüyorum ve bu pozisyon benim uzmanlık alanıma girdiğini belirtmek isterim. 
 Cover Letter'i fazla uzatmadan kendim hakkımda hızlı bir şekilde bilgi vereyim.
