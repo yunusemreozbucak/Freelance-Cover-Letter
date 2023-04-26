@@ -1,7 +1,7 @@
 <H1>Genel Freelancer Cover Letter Taslağı</H1>
 
 -----
-Merhaba <b>{İşveren/ Firma Adı}</b>, <i>Eğer işvereninizin ismi belli değil ise, <b>“Merhabalar”</b> ya da daha yaratıcı bir şey ile cümlenize başlayabilirsiniz.<i>
+Merhaba <b>{İşveren/ Firma Adı}</b>, <i>(Eğer işvereninizin ismi belli değil ise(, <b>“Merhabalar”</b> (ya da daha yaratıcı bir şey ile cümlenize başlayabilirsiniz.)</i>
   
 Öncelikle iş ilanınıza beni davet ettiğiniz için teşekkür ederim. <i>(Eğer herhangi bir iş ilanına davet edildiyseniz bu cümleyi kullanın, aksi  takdirde aşağıda yer alan cümle ile devam edin.)</i>
 
