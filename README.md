@@ -1,15 +1,15 @@
-<H1> Upwork Cover Letter </H1>
+<H1> Freelance Platformlarında Kullanabileceğiniz Cover Letter Taslakları </H1>
 
 <H2> Taslak Nasıl Entegre Edilir? </H2>
 ----
 <ol>
-   <li>Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/Upwork-CoverLetter.git`</li>
+   <li>Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/freelancer-CoverLetter.git`</li>
    <li>Klonlandıktan sonra, mevcut hazırlamış olduğum şablonlardan birisini kopyalayın ve Upwork üzerinden işverenin ilanına yapıştırın.</li>
 </ol>
 
 Merhabalar!
 
-Bu Upwork Cover Letter şablonunu indirdiğiniz için teşekkür ederiz. Umarız faydalı bulursunuz.
+Bu Freelancer Cover Letter şablonunu indirdiğiniz için teşekkür ederiz. Umarız faydalı bulursunuz.
 
 Başlamadan önce belirtmek istediğimiz birkaç şey var.
    - Kalın olarak belirttiğim sözcüklerin, başvurduğunuz ilan ile ilgili olarak sizin tarafınızdan kişiselleştirilmesi önerilir.
