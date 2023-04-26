@@ -1,10 +1,10 @@
 <H1> Freelance Platformlarında Kullanabileceğiniz Cover Letter Taslakları </H1>
 
-<H2> Taslak Nasıl Entegre Edilir? </H2>
+<H2> Taslak Nasıl Kullanılır? </H2>
 ----
 <ol>
    <li>Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/Freelancer-Cover-Letter.git`</li>
-   <li>Klonlandıktan sonra, mevcut hazırlamış olduğum şablonlardan birisini kopyalayın ve Upwork üzerinden işverenin ilanına yapıştırın.</li>
+   <li>Klonlandıktan sonra, mevcut hazırlamış olduğum şablonlardan herhangi birini tercih edeceğiniz IDE platformunda düzenleyin  ya da doğrudan Cover Letter'i freelancer platformu üzerinden düzenlemeye başlayın.</li>
 </ol>
 
 Merhabalar!
