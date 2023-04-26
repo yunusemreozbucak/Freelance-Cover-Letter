@@ -2,6 +2,7 @@
 
 <H2> Taslak Nasıl Kullanılır? </H2>
 ----
+1. Clone this repo `git clone https://github.com/rahmandikahaekal/Upwork-coverletter.git`
 <ol>
    <li>Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/Freelancer-Cover-Letter.git`</li>
    <li>Klonlandıktan sonra, mevcut hazırlamış olduğum şablonlardan herhangi birini tercih edeceğiniz IDE platformunda düzenleyin  ya da doğrudan Cover Letter'i freelancer platformu üzerinden düzenlemeye başlayın.</li>
