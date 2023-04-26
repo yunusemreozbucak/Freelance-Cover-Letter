@@ -1,15 +1,12 @@
-
 <H1>Genel Freelancer Cover Letter Taslağı</H1>
 
 -----
-
 Merhaba <b>{İşveren/ Firma Adı}</b>, <i>Eğer işvereninizin ismi belli değil ise, <b>“Merhabalar”</b> ya da daha yaratıcı bir şey ile cümlenize başlayabilirsiniz.<i>
-
+  
 Öncelikle iş ilanınıza beni davet ettiğiniz için teşekkür ederim. <i>Eğer herhangi bir iş ilanına davet edildiyseniz bu cümleyi kullanın, aksi  takdirde aşağıda yer alan cümle ile devam edin.</i>
 
 <b>{Aranan pozisyon}</b> pozisyonu için freelancer arayışınızın olduğunu görüyorum ve bu pozisyon benim uzmanlık alanıma girdiğini belirtmek isterim. 
-
-Cover Latter'i fazla uzatmadan kendim hakkımda bilgi vermek isterim.
+Cover Letter'i fazla uzatmadan kendim hakkımda hızlı bir şekilde bilgi vereyim.
 
 Büyük ihtimalle vizyonumu ve geçmiş tecrübelerimi merak ediyorsunuz. Sitede yer alan portfolyomuma <b>{Upwork profilinizin linki}</b> ya da doğrudan sosyal medya hesabımda paylaştığım örnek çalışmalarıma göz atabilirsiniz: <b>{İnternet siteniz ya da sosyal medya hesabınız}</b>
 
@@ -17,9 +14,10 @@ Büyük ihtimalle vizyonumu ve geçmiş tecrübelerimi merak ediyorsunuz. Sitede
 
 İlanda cevap vermemi istediğiniz sorulara gelecek olursak, <i>Eğer iş ilanında cevaplamanız gereken soru var ise bu bölümde cevaplayın.</i>
 
-Skype, Telegram ya da Linkedln üzerinden detaylı konuşmak isterim. Önümüzdeki ilk iki gün görüşmek için müsaitim. <b>{Kaç gün boyunca müsait olacağınızı bizzat belirtin.}</b> Skype kullanıcı adım: **{Skype kullanıcı adını belirtin.}**.
+Skype, Telegram ya da LinkedIn üzerinden detaylı konuşmak isterim. Önümüzdeki ilk iki gün görüşmek için müsaitim. <b>{Kaç gün boyunca müsait olacağınızı bizzat belirtin.}</b> Skype kullanıcı adım: **{Skype kullanıcı adını belirtin.}**.
 
 Detayları konuşmak için sabırsızlıkla bekliyor olacağım. İyi günler dilerim.
 
 Teşekkürler
 <b>{İsim ve Soyisim}</b>
+
