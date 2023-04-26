@@ -14,9 +14,9 @@ Büyük ihtimalle vizyonumu ve geçmiş tecrübelerimi merak ediyorsunuz. Sitede
 
 İlanda cevap vermemi istediğiniz sorulara gelecek olursak, <i>(Eğer iş ilanında cevaplamanız gereken soru var ise bu bölümde cevaplayın.)</i>
 
-Skype, Telegram ya da LinkedIn üzerinden detaylı konuşmak isterim. Önümüzdeki ilk iki gün görüşmek için müsaitim. <b>{Kaç gün boyunca müsait olacağınızı bizzat belirtin.}</b> Skype kullanıcı adım: **{Skype kullanıcı adını belirtin.}**.
+Skype, Telegram ya da LinkedIn üzerinden detaylı konuşmak isterim. Önümüzdeki ilk iki gün görüşmek için müsaitim. <b>{Kaç gün boyunca müsait olacağınızı bizzat belirtin.}</b> Skype kullanıcı adım: <b>{Skype kullanıcı adını belirtin.}</b>
 
-Detayları konuşmak için sabırsızlıkla bekliyor olacağım. İyi günler dilerim.
+Detayları konuşmak için sabırsızlıkla bekliyor olacağım, iyi günler.
 
 Teşekkürler
 <b>{İsim ve Soyisim}</b>
