@@ -12,7 +12,7 @@ Büyük ihtimalle vizyonumu ve geçmiş tecrübelerimi merak ediyorsunuz. Sitede
 
 İletmiş olduğum örnek çalışmalarda göreceğiniz üzere, <b>{Hizmetinize dair niş kelimeler kullanın.}</b> konusunda uzman firmalar ile çalışmaktan büyük zevk duyuyorum. Firmanızı detaylı bir şekilde incelemiş biri olarak. <i>(Bu bölümü yalnızca işletmenin sitesi mevcut ise ekleyin ve internet sitesini gerçekten kontrol edin. Mümkünse zaman ayırdığınızın kanıtlaması için işletmelerin internet siteleri hakkında belirli şeylerden bahsedin.)</i> Birlikte çalışmaya başlamadan önce, ilk olarak <b>{Çalışmalarınıza nerelerden başlayacağınızı teknik terimler kullanarak belirtin.}</b>. Ardından, <b>{vereceğiniz hizmet sonucunda firma ne kazanacağını açıklayın.}</b>.
 
-İlanda cevap vermemi istediğiniz sorulara gelecek olursak, <i>Eğer iş ilanında cevaplamanız gereken soru var ise bu bölümde cevaplayın.</i>
+İlanda cevap vermemi istediğiniz sorulara gelecek olursak, <i>(Eğer iş ilanında cevaplamanız gereken soru var ise bu bölümde cevaplayın.)</i>
 
 Skype, Telegram ya da LinkedIn üzerinden detaylı konuşmak isterim. Önümüzdeki ilk iki gün görüşmek için müsaitim. <b>{Kaç gün boyunca müsait olacağınızı bizzat belirtin.}</b> Skype kullanıcı adım: **{Skype kullanıcı adını belirtin.}**.
 
