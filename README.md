@@ -3,7 +3,7 @@
 <H2> Taslak Nasıl Entegre Edilir? </H2>
 ----
 <ol>
-   <li>Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/freelancer-CoverLetter.git`</li>
+   <li>Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/Freelancer-CoverLetter.git`</li>
    <li>Klonlandıktan sonra, mevcut hazırlamış olduğum şablonlardan birisini kopyalayın ve Upwork üzerinden işverenin ilanına yapıştırın.</li>
 </ol>
 
