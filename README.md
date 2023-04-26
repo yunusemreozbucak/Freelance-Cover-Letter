@@ -2,8 +2,10 @@
 
 <H2> Taslak Nasıl Entegre Edilir? </H2>
 ----
-1. Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/Upwork-CoverLetter.git`
-2. Klonlandıktan sonra, mevcut hazırlamış olduğum şablonlardan birisini kopyalayın ve Upwork üzerinden işverenin ilanına yapıştırın.
+<ol>
+   <li>Bu repoyu klonlayın. `git clone https://github.com/yunusemreozbucak/Upwork-CoverLetter.git`</li>
+   <li>Klonlandıktan sonra, mevcut hazırlamış olduğum şablonlardan birisini kopyalayın ve Upwork üzerinden işverenin ilanına yapıştırın.</li>
+</ol>
 
 Merhabalar!
 
