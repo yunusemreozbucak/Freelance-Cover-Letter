@@ -1,6 +1,6 @@
 <H1> Freelance Platformlarında Kullanabileceğiniz Cover Letter Taslakları </H1>
 
-<H2> Taslak Nasıl Kullanılır? </H2>
+## <H2> Taslak Nasıl Kullanılır? </H2>
 ----
 
 <ol>
