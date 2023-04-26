@@ -1,2 +1,4 @@
-<H1> Upwork Cover Latter </H1>
-Upwork platformunda yer alan iş ilanlarına başvuruda bulunabileceğiniz Cover Letter taslağı
+<H1> Upwork Cover Letter </H1>
+
+<H2> Taslak Nasıl Entegre Edilir? </H2>
+1. Bu repoyu klonlayın. git clone https://github.com/yunusemreozbucak/Upwork-CoverLetter.git
